@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    
+}
+
+#login-container{
+    background: #0082C3;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+h1 {
+    color: #F7F9FB;
+}
+
+.form{
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+.link{
+    color: #F7F9FB;
+}

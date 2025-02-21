@@ -1,0 +1,62 @@
+body{
+    background:  #F7F9FB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #F7F9FB;
+}
+
+#register-container{
+    background: #0082C3;
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+select{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #0082C3;
+    width: 280px;
+    padding: 5px;
+}
+
+input{
+    width: 280px;
+    padding: 5px;
+}
+
+.form-row6 input{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0082C3;
+}
+
+button{
+    width: 150px;
+    padding: 10px;
+    margin: 25px 0;
+    background-color: #F7F9FB;
+    color:#0082C3;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn {
+    font-weight: bold;
+    font-size: medium;
+}
+
+
+#hyperlink1 a {
+    color: #F7F9FB;
+    text-align: center;
+}
